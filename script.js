@@ -4,7 +4,7 @@ const apiUrl = 'https://weather-api99.p.rapidapi.com/weather?city=';
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '539a133fffmsh9aa0f58ae9ff104p1042c6jsn6f8dd2e55e86',
+		'X-RapidAPI-Key': 'private access key',
 		'X-RapidAPI-Host': 'weather-api99.p.rapidapi.com'
 	}
 };
